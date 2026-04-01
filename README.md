@@ -1,14 +1,13 @@
 # GreatHost 自动续期状态
 
-🚨 **GreatHost 脚本报错**
+🎉 **GreatHost 续期成功**
 
 📛 服务器名称: fediman
-❌ 故障: `Message: 
-Stacktrace:
-#0 0x5578edc9aa6a <unknown>
-#1 0x5578ed6a9ab5 <unknown>
-#2 0x5578ed6fc676 <unk`
-🌐 代理状态: 已尝试直连
-📅 时间: 2026/04/01 10:43:41
+🆔 ID: `fc320b01-2e41-43ea-856f-e73add962eb8`
+⏰ 增加时间: 26 ➔ 38h
+🚀 服务器状态: ❓ unknown
+💡 提示: Servidor gratuito renovado correctamente
+🌐 落地 IP: `45.143.129.241`
+📅 时间: 2026/04/01 21:25:22
 
-> 最近更新: 2026/04/01 10:43:41
+> 最近更新: 2026/04/01 21:25:22
